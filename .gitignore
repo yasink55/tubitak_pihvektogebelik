@@ -1,0 +1,9 @@
+# Geçici betik dosyaları
+*.log
+
+# İşletim sistemi dosyaları
+.DS_Store
+Thumbs.db
+
+# Scratch klasörü (dahili notlar)
+scratch/
