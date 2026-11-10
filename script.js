@@ -4,7 +4,7 @@
 
 // Formu gerçek bir servise bağlamak için (ör. Formspree: https://formspree.io)
 // aldığınız adresi buraya yazın. Boş bırakılırsa gönderim simüle edilir.
-const FORM_ENDPOINT = "";
+const FORM_ENDPOINT = "https://formspree.io/f/mjywbyad";
 
 document.addEventListener("DOMContentLoaded", () => {
   const navbar    = document.getElementById("navbar");
