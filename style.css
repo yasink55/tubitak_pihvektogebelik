@@ -703,4 +703,5 @@ body { animation: pageIn 0.5s var(--ease) both; }
 }
 .social-link:hover .social-icon { transform: rotate(-12deg) scale(1.1); }
 .social-icon--mail { background: linear-gradient(45deg, #d44638 0%, #b23121 100%); }
+.social-icon--survey { background: linear-gradient(45deg, #7e57c2 0%, #5e35b1 100%); }
 .socials { display: flex; flex-direction: column; gap: 0.75rem; margin-top: 2rem; }
